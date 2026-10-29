@@ -1,1 +1,1 @@
-Joe’s Budget V3.7 — Bandeau métallisé. Importer tous les fichiers à la racine du dépôt GitHub. Exporter les données avant mise à jour.
+Joe’s Budget V4.1 — bandeau approuvé intégré au HTML, affichage sans recadrage. Sauvegardez vos données avant mise à jour.
