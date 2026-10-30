@@ -1,1 +1,1 @@
-Joe’s Budget V4.1 — bandeau approuvé intégré au HTML, affichage sans recadrage. Sauvegardez vos données avant mise à jour.
+Joe’s Budget V4.2 : gravação dos limites mensais, repetição nos meses seguintes e resumo do saldo anterior. Faça uma cópia de segurança antes da atualização.
