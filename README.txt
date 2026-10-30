@@ -1,1 +1,1 @@
-Joe’s Budget V4.4 — janela de fecho em português europeu. « Fechar sem transferir » encerra definitivamente o aviso desse mês, sem criar qualquer transferência. « Mais tarde » apenas adia. Faz uma cópia de segurança antes de atualizar.
+Joe’s Budget V4.5 — versão visível sob o cabeçalho, fecho definitivo sem transferência, correções de tradução. Guardar cópia de segurança antes de atualizar.
