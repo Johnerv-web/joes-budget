@@ -1,1 +1,1 @@
-Joe’s Budget V4.2 : gravação dos limites mensais, repetição nos meses seguintes e resumo do saldo anterior. Faça uma cópia de segurança antes da atualização.
+Joe's Budget V4.3: correção da edição do saldo das contas poupança. Introduzir novo saldo total (não diferença). Fazer cópia de segurança antes de atualizar.
