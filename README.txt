@@ -1,1 +1,1 @@
-Joe's Budget V4.3: correção da edição do saldo das contas poupança. Introduzir novo saldo total (não diferença). Fazer cópia de segurança antes de atualizar.
+Joe’s Budget V4.4 — janela de fecho em português europeu. « Fechar sem transferir » encerra definitivamente o aviso desse mês, sem criar qualquer transferência. « Mais tarde » apenas adia. Faz uma cópia de segurança antes de atualizar.
